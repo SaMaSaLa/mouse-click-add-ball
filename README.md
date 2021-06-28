@@ -1,4 +1,4 @@
-# Mouse Clicking Position Ellipse
+# Mouse Click Add Ball
 
 Draws ellipse wherever you click
 
