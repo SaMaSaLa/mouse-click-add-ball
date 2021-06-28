@@ -4,3 +4,9 @@ Draws ellipse wherever you click
 
 -   Repository URL : [mouse-clicking-position-ellipse](https://github.com/SaMaSaLa/mouse-clicking-position-ellipse)
 -   Demo URL : [Demo](https://samasala.github.io/mouse-clicking-position-ellipse/)
+
+Authors:
+
+-   [Sai Vanga](https://sai.rocks)
+
+-   [Lasya Vanga](https://lasya.net)
